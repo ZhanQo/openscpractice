@@ -14,3 +14,7 @@ This repository was created to practice the GitHub workflow and learn the basics
 ## Purpose
 
 This project is part of the Introduction to Open Source Development course.
+
+## Contribution Workflow
+
+This repository demonstrates how to create Issues, make changes in a separate branch, and submit Pull Requests.
